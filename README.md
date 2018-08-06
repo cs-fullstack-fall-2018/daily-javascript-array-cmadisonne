@@ -29,5 +29,7 @@ B. An alert box displaying the following:Paul, John, Ringo, George
 
 C. An alert box displaying the following: Paul, John, George
 
-D. An alert box displaying the following: John, Ringo, George
+D. An alert box displaying the following: John, Ringo, George 
+
+---> I CHOOSE B <---
 
